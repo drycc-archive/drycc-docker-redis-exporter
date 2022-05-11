@@ -2,4 +2,4 @@ version: '2'
 
 services:
   redis-exporter:
-    image: docker.io/bitnami/redis-exporter:1.37.0
+    image: registry.drycc.cc/drycc-addons/redis-exporter:1.37.0
